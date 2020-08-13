@@ -1,3 +1,3 @@
 # hello-world
 github repository testing
-learning hot to use github
+learning how to use github
